@@ -1,2 +1,2 @@
-# codewars_dojo
+# Dojo
 My katas
